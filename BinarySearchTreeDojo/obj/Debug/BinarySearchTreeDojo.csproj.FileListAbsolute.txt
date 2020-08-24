@@ -1,0 +1,7 @@
+C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojo\bin\Debug\BinarySearchTreeDojo.exe.config
+C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojo\bin\Debug\BinarySearchTreeDojo.exe
+C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojo\bin\Debug\BinarySearchTreeDojo.pdb
+C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojo\obj\Debug\BinarySearchTreeDojo.csprojAssemblyReference.cache
+C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojo\obj\Debug\BinarySearchTreeDojo.csproj.CoreCompileInputs.cache
+C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojo\obj\Debug\BinarySearchTreeDojo.exe
+C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojo\obj\Debug\BinarySearchTreeDojo.pdb
