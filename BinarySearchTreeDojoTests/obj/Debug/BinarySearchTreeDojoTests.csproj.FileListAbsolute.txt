@@ -12,3 +12,6 @@ C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTree
 C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojoTests\obj\Debug\BinarySearchTreeDojoTests.csproj.CopyComplete
 C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojoTests\obj\Debug\BinarySearchTreeDojoTests.dll
 C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojoTests\obj\Debug\BinarySearchTreeDojoTests.pdb
+C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Claudiu\Desktop\Coding\binary-search-trees-csharp-cdne\BinarySearchTreeDojoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
